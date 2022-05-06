@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Сравнение чисел</string>
+    <string name="is_equal">Сравнить</string>
+</resources>
